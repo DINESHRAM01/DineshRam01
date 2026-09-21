@@ -10,7 +10,7 @@ I'm currently strengthening my Java and backend development skills while explori
 
 🚀 I'm actively looking for exciting software development opportunities, internships, and collaborative projects where I can learn, contribute, and grow as a developer.
 
-* 🌍  I'm based in Vellore , Tamilnadu,India
+* 🌍  I'm based in Ranipet , Tamilnadu,India
 * ✉️  You can contact me at [dineshram3322@gmail.com](mailto:dineshram3322@gmail.com)
 * 🧠  I'm currently learning Java • Java 8+ • Backend Development • Spring Boot • REST APIs • SQL • Data Structures & Algorithms
 * 👥  I'm looking to collaborate on Open-source projects, Java/Python applications, full-stack web applications, AI/ML projects, developer tools, and innovative projects where I can contribute and learn.
